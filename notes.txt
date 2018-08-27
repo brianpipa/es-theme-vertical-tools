@@ -1,0 +1,2 @@
+notes: HeyChrome: logScale 0.5, maxLogoCount 4
+maximus: maxLogoCOunt:3
